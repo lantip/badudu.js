@@ -18,6 +18,10 @@ tempatkan dua script ini di atas tag `</body>`
     <script src="/path/js/badudu.min.js" type="text/javascript"></script>
 ```
 
+Demo
+----
+Silakan kunjungi [lantip.net](http://www.lantip.net) lalu klik dua kali (double click) kata di sana, kata apa saja.
+
 Kredit
 ------
 Data diambil dari [Kateglo](http://www.kateglo.com) asuhan Uda Ivan Lanin
