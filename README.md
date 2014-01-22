@@ -25,5 +25,11 @@ Silakan kunjungi [lantip.net](http://www.lantip.net) lalu klik dua kali (double 
 Kredit
 ------
 Data diambil dari [Kateglo](http://www.kateglo.com) asuhan Uda Ivan Lanin
+
 Server API wrapper disediakan oleh [hky](http://twitter.com/ballysta) - @ardwort
 
+To Do:
+-----
+- merapikan lembar gaya (_stylesheet_ maksudnya), termasuk mengatur posisi kotak melayang (_overlay box_)
+- membuat menjadi plugins
+- mungkin menambahkan pita untuk memberitahu pengunjung mengenai aturan klik ganda (_double click_)
