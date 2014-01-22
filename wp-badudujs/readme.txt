@@ -1,9 +1,10 @@
 === Badudu JS ===
 Contributors: lantip
-Donate link:
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4JGVS3E7H8344
 Tags: Bahasa Indonesia, KBBI, Kateglo
 Requires at least: 2.0.0
 Tested up to: 3.4
+Stable Tag: trunk
 License: ABRMS
 License URI: https://github.com/lantip/badudu.js/raw/master/LICENSE.md
 
