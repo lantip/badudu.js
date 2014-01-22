@@ -13,11 +13,13 @@ function badudu_js_script() {
     //wp_enqueue_script('jquery');
 
     wp_register_script( 'badudu-js', get_bloginfo('wpurl').'/wp-content/plugins/wp-badudujs' . '/badudu.min.js', array(),'version 1.0',true  );
-    wp_register_style( 'badudujs-css', get_bloginfo('wpurl').'/wp-content/plugins/wp-badudujs' . '/badudujs.css',array(),'', true );
-
-    wp_enqueue_style( 'badudujs-css' );
     wp_enqueue_script( 'badudu-js' );
 
 }
+function badudu_css_script(){
 
+    wp_register_style( 'badudujs-css', get_bloginfo('wpurl').'/wp-content/plugins/wp-badudujs' . '/badudujs.css',array(),'', 'screen' );
+    wp_enqueue_style( 'badudujs-css' );
+}
+add_action( 'init', 'badudu_css_script' );
 add_action( 'init', 'badudu_js_script' );
