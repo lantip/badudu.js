@@ -33,6 +33,10 @@ Plugins Wordpress
 -----------------
 Bagi Anda pengguna Wordpress, saya sudah bikinkan pluginsnya. Silakan tempatkan folder `wp-badudujs` di folder wp-content/plugins/ lalu activate module `Badudu JS`. Selamat mencoba!
 
+Plugins WP sudah mendapat persetujuan dari tim WordPress. Silakan install melalui halaman admin wordpress Anda, cari plugin `Badudu JS`
+
+atau Anda juga bisa mengunjungi halaman plugin di [Plugin Badudu JS di WP](http://wordpress.org/plugins/badudu-js/)
+
 
 To Do:
 -----
