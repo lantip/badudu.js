@@ -28,8 +28,13 @@ Data diambil dari [Kateglo](http://www.kateglo.com) asuhan Uda Ivan Lanin
 
 Server API wrapper disediakan oleh [hky](http://twitter.com/ballysta) - @ardwort
 
+
+Plugins Wordpress
+-----------------
+Bagi Anda pengguna Wordpress, saya sudah bikinkan pluginsnya. Silakan tempatkan folder `wp-badudujs` di folder wp-content/plugins/ lalu activate module `Badudu JS`. Selamat mencoba!
+
+
 To Do:
 -----
 - merapikan lembar gaya (_stylesheet_ maksudnya), termasuk mengatur posisi kotak melayang (_overlay box_)
-- membuat menjadi plugins
 - mungkin menambahkan pita untuk memberitahu pengunjung mengenai aturan klik ganda (_double click_)
