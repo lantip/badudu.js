@@ -38,6 +38,15 @@ Plugins WP sudah mendapat persetujuan dari tim WordPress. Silakan install melalu
 atau Anda juga bisa mengunjungi halaman plugin di [Plugin Badudu JS di WP](http://wordpress.org/plugins/badudu-js/)
 
 
+Browser Extensions
+------------------
+Tersedia Extension untuk Chrome, di direktori `browser-extensions`. Silakan install dengan langkah berikut:
+- _ekstrak/unzip_ badudu-ext.zip
+- buka `chrome://extensions` lalu centang atau aktifkan Developer Mode
+- klik `Load unpacked extension...` maka akan terbuka jendela untuk memilih berkas.
+- pilih folder hasil _ekstrak/unzip_ tadi (`badudu-ext`) lalu klik tombol `select`
+- ekstension sudah terinstall dan aktif, sekarang di setiap web yang terbuka, Anda bisa melakukan klik ganda pada kata yang ingin Anda cari definisi KBBI-nya.
+
 To Do:
 -----
 - merapikan lembar gaya (_stylesheet_ maksudnya), termasuk mengatur posisi kotak melayang (_overlay box_)
