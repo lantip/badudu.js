@@ -12,15 +12,21 @@ Plugins to add javascript library for KBBI (Kateglo)
 
 == Description ==
 
-Plugins ini memberikan fasilitas definisi kata di blog Anda. Pengunjung tinggal mengklik ganda satu kata, maka akan muncul popup berisi definis kata tersebut menurut KBBI.
+Plugins ini memberikan fasilitas definisi kata di blog Anda. Pengunjung tinggal mengklik ganda satu kata, maka akan muncul popup berisi definisi kata tersebut menurut KBBI (Kamus Besar Bahasa Indonesia).
 
+English:
+
+This plugin provides definition for Indonesian language in your blog. Visitors can double click a word to popup a definition for that word according to KBBI (Great Dictionary of the Indonesian Language).
 
 == Installation ==
 
+1. Unggah folder `wp-badudujs` ke direktori `/wp-content/plugins/`
+2. Aktifkan plugin melalui menu 'Plugins' Admin WordPress
 
-1. Upload folder `wp-badudujs` ke direktori `/wp-content/plugins/`
-2. Activate  plugin melalui 'Plugins' menu di WordPress Admin
+English:
 
+1. Upload `wp-badudujs` folder to `/wp-content/plugins/`
+2. Activate the plugin through 'Plugins' menu in WordPress Admin
 
 == Screenshots ==
 
