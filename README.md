@@ -47,7 +47,8 @@ Tersedia Extension untuk Chrome, di direktori `browser-extensions`. Silakan inst
 - pilih folder hasil _ekstrak/unzip_ tadi (`badudu-ext`) lalu klik tombol `select`
 - ekstension sudah terinstall dan aktif, sekarang di setiap web yang terbuka, Anda bisa melakukan klik ganda pada kata yang ingin Anda cari definisi KBBI-nya.
 
-To Do:
------
-- merapikan lembar gaya (_stylesheet_ maksudnya), termasuk mengatur posisi kotak melayang (_overlay box_)
-- mungkin menambahkan pita untuk memberitahu pengunjung mengenai aturan klik ganda (_double click_)
+
+
+ChangeLog
+---------
+24 Januari 2014 - memperbaiki script supaya tidak mencari definisi jika yang diklik dua kali bukan text.
