@@ -40,12 +40,14 @@ atau Anda juga bisa mengunjungi halaman [Plugin Badudu JS di WP](http://wordpres
 
 Browser Extensions
 ------------------
-Tersedia Extension untuk Chrome di direktori `browser-extensions`. Silakan instal dengan langkah berikut:
+Tersedia Extension (pengaya) untuk Chrome di direktori `browser-extensions`. Silakan instal dengan langkah berikut:
 - _ekstrak/unzip_ badudu-ext.zip
 - buka `chrome://extensions` lalu centang atau aktifkan Developer Mode
 - klik `Load unpacked extension...` maka akan terbuka jendela untuk memilih berkas.
 - pilih folder hasil _ekstrak/unzip_ tadi (`badudu-ext`) lalu klik tombol `select`
 - ekstension sudah terinstall dan aktif, sekarang di setiap web yang terbuka, Anda bisa melakukan klik ganda pada kata yang ingin Anda cari definisi KBBI-nya.
+
+Tersedia pula Extension (pengaya) untuk firefox. Silakan download `badudu-firefox.xpi` di direktori `browser-extensions`, lalu buka dengan firefox.
 
 
 
