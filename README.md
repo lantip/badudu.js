@@ -54,5 +54,6 @@ Tersedia pula Extension (pengaya) untuk firefox. Silakan download `badudu-firefo
 
 ChangeLog
 ---------
+- 28 Januari 2014 - menambahkan pengaya untuk firefox.
 - 27 Januari 2014 - memperbaiki popup ganda dan gagal close di situs dengan ssl enabled.
 - 24 Januari 2014 - memperbaiki script supaya tidak mencari definisi jika yang diklik dua kali bukan text.
