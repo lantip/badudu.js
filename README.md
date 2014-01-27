@@ -49,6 +49,7 @@ Tersedia Extension (pengaya) untuk Chrome di direktori `browser-extensions`. Sil
 
 Tersedia pula Extension (pengaya) untuk firefox. Silakan download `badudu-firefox.xpi` di direktori `browser-extensions`, lalu buka dengan firefox.
 
+Atau Anda bisa menuju ke link ini [Badudu Firefox](https://addons.mozilla.org/en-US/firefox/addon/badudu-firefox/)
 
 
 
