@@ -51,4 +51,5 @@ Tersedia Extension untuk Chrome di direktori `browser-extensions`. Silakan insta
 
 ChangeLog
 ---------
+27 Januari 2014 - memperbaiki popup ganda dan gagal close di situs dengan ssl enabled.
 24 Januari 2014 - memperbaiki script supaya tidak mencari definisi jika yang diklik dua kali bukan text.
