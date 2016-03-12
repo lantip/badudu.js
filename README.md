@@ -1,5 +1,6 @@
 BaduduJS
 =======
+> **Penting:** Mohon jangan dipergunakan dulu script/widget ini, karena masih dalam perbaikan.
 
 Ide penamaan berkas kode ini datang dari Deon Sukma - [@deon](http://twitter.com/deon), sebagai salah satu bentuk kenangan bagi salah satu pahlawan bahasa bangsa kita, [JS Badudu](http://id.wikipedia.org/wiki/Jusuf_Sjarif_Badudu).
 
